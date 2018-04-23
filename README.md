@@ -6,6 +6,8 @@ My first use of an API, for an in-class assignment through the UNC Coding Bootca
 
 Be sure to get your own [GIPHY](https://developers.giphy.com/docs/) API key and insert it in the code on lines 4 and 38 in giphy.js.
 
+Click on the names to load GIFs. Use interface on the right to add your own names. GIFs will not play until clicked.
+
 ### Prerequisites
 
 Get an API key from [GIPHY](https://developers.giphy.com/docs/)
