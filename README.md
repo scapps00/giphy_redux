@@ -21,7 +21,7 @@ Get an API key from [GIPHY](https://developers.giphy.com/docs/)
 
 ## Authors
 
-* **Samantha Capps** (https://github.com/scapps00)
+* **Samantha Capps** (https://github.com/scapps00) with guidance from the UNC Coding Bootcamp 2017
 
 ## License
 
